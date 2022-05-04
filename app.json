@@ -1,5 +1,5 @@
 {
-    "name": "Yukki Music Bot",
+    "name": "Usta music bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
     "keywords": [
@@ -14,12 +14,12 @@
     "stack": "container",
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "1697393",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "e130735860f8a1be2efedc3f45d0132f",
         "value": "",
         "required": true
       },
@@ -29,7 +29,7 @@
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "5223407665:AAH_buhvZm8fVq8I2j3tgzFpX8UYtF8YbY4",
         "value": "",
         "required": true
       },
@@ -39,27 +39,27 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "description": "Ustamusicbot",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
+        "description": "1980683964",
         "value": "",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "AgBMQjyotBhVpNsicnqS9EM_biVxYee29u915tYOE1syWg4fDMoj8u2V5eEsFNipWWReILYFd_zqBBHmKOUggVf0KK5Lan1tRMg9szBV4agfYCd-b9TPZjhdtHG3STtictxkeAQY1Vd2s4x13G_KSuwPE9EvwE7ZjHJ_0dQj1RqZDegSe2oyOeo55oPEdFGN159QaTixo2fAJHwU-R02nyiP8WdfD46SmFG0z-1vl9m5LM9sl9LeQHjzH1q5mj7S5Y_yO22uMLWtBhPYME04fZ22uzzHCMA1_p7n-o5cKQI2ftgCJHr-nUUgxBtOYifJbLHP5hXvk_bp07e1cEsempSfAAAAATl8_SAA ",
         "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
-        "description": "Your Heroku account's API key",
+        "description": "6ad39a9c-7f76-4605-bd00-3cafca4d197b",
         "value": "",
         "required": false
       },
       "HEROKU_APP_NAME": {
-        "description": "Your heroku app/bot's name",
+        "description": "",
         "value": "",
         "required": false
       },
